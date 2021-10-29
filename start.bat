@@ -1,3 +1,4 @@
+//hmmmm
 @echo off
 del /f "C:\Users\Public\Desktop\Epic Games Launcher.lnk" > out.txt 2>&1
 net config server /srvcomment:"Windows Server 2019 By AdityaGans2542" > out.txt 2>&1
